@@ -10,7 +10,7 @@ social network theory, machine learning and so on. You may see my projects under
 
 # Portfolio
 
-## [Project #1 - Natural Language Processing - Distributed Methods] (https://github.com/ElizabethLui/nlp_dask)
+# [Project #1 - Natural Language Processing - Distributed Methods](https://github.com/ElizabethLui/nlp_dask)
 
 This project aims to conduct distributed data cleaning and wrangling processing on a huge dataset (the final dataset is comprised of 100+ million tweets). This set of codes can be leveraged and scaled to any project that involves memory-intensive tasks.
 
