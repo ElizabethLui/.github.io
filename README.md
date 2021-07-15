@@ -1,5 +1,5 @@
 # Elizabeth Lui
-[(elizabethlui0616@gmail.com)]
+(elizabethlui0616@gmail.com)
 
 # Bio
 
