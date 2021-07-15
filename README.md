@@ -8,3 +8,11 @@ In this coming fall, I will be pursuing a MS degree in Data Science at the Unive
 As an aspiring computational social scientist, I am proficient in programming languages such as Python and R, and familiar with methods including Natural Languague Processing, 
 social network theory, machine learning and so on. You may see my projects under the Portfolio Section below.
 
+# Portfolio
+
+## [Project #1 - Natural Language Processing - Distributed Methods] (https://github.com/ElizabethLui/nlp_dask)
+
+This project aims to conduct distributed data cleaning and wrangling processing on a huge dataset (the final dataset is comprised of 100+ million tweets). This set of codes can be leveraged and scaled to any project that involves memory-intensive tasks.
+
+I crawled this dataset from scratch using the new Twitter API v2 via the twarc package.
+
